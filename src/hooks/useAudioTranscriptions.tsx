@@ -112,7 +112,7 @@ export default function useAudioTranscriptions() {
         return () => {
             clearSession()
         }
-    }, [])
+    }, [finalTranscript,isListening,restartRecognition])
 
     const clearSession = () => {
         setFinalTranscript("")

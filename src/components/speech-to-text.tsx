@@ -91,7 +91,7 @@ export default function SpeechToText() {
                 {/* Footer */}
                 <div className="mt-6 text-center text-sm text-gray-500">
                     <p>
-                        This tool uses your browser's built-in speech recognition. Make sure
+                        This tool uses your browser&pos built-in speech recognition. Make sure
                         you have a good internet connection for best results.
                     </p>
                 </div>
