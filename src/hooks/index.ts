@@ -1,4 +1,4 @@
-import useAudioTranscriptions from "./useAudioTranscriptions"
-import useRecordingSessions from "./useRecordingSessions"
+import useAudioTranscriptions from './useAudioTranscriptions';
+import useRecordingSessions from './useRecordingSessions';
 
-export { useAudioTranscriptions, useRecordingSessions } 
+export { useAudioTranscriptions, useRecordingSessions };

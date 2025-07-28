@@ -1,7 +1,7 @@
 .btn {
-    padding: 1em;
+  padding: 1em;
 }
 
 .capitalize-first::first-letter {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }

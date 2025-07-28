@@ -1,7 +1,5 @@
-import SpeechToText from "@/components/speech-to-text";
+import SpeechToText from '@/components/speech-to-text';
 
 export default function Home() {
-  return (
-  <SpeechToText />
-  );
+  return <SpeechToText />;
 }

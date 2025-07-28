@@ -1,4 +1,4 @@
-import * as icons from 'lucide-react'
+import * as icons from 'lucide-react';
 
 interface SpeechRecognitionStatic {
   new (): SpeechRecognition;
@@ -11,5 +11,4 @@ declare global {
   }
 }
 
-
-export type IconsNameType =  keyof typeof icons;
+export type IconsNameType = keyof typeof icons;
