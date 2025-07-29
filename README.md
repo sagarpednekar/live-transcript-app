@@ -28,9 +28,9 @@
 ### 🎨 UI/UX
 - **Modern Interface** - Clean, intuitive design with Tailwind CSS
 - **Dark/Light Mode** - Customizable appearance (coming soon)
-- **Settings Panel** - Language selection and customization options
-- **Real-time Status** - Visual indicators for recording state
-- **Word Count** - Live statistics and metrics
+- **Settings Panel** - Language selection and customization options (coming soon)
+- **Real-time Status** - Visual indicators for recording state(coming soon)
+- **Live Captions** - Live Captions and metrics 
 
 ## 🚀 Quick Start
 
